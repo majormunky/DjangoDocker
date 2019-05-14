@@ -3,4 +3,6 @@ gunicorn>=19.7.0
 psycopg2>=2.7.4
 djangorestframework
 django-debug-toolbar>=1.11
-
+django-filter
+Pillow>=1.1.7
+django-crispy-forms
